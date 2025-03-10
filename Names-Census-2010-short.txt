@@ -1,0 +1,23 @@
+     1 SMITH                2442977
+     2 JOHNSON              1932812
+     3 WILLIAMS             1625252
+     4 BROWN                1437026
+     5 JONES                1425470
+     6 GARCIA               1166120
+     7 MILLER               1161437
+     8 DAVIS                1116357
+     9 RODRIGUEZ            1094924
+    10 MARTINEZ             1060159
+    11 HERNANDEZ            1043281
+    12 LOPEZ                 874523
+    13 GONZALEZ              841025
+    14 WILSON                801882
+    15 ANDERSON              784404
+    16 THOMAS                756142
+    17 TAYLOR                751209
+    18 MOORE                 724374
+    19 JACKSON               708099
+    20 MARTIN                702625
+     0 END                   0
+
+
